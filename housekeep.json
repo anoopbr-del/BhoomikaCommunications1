@@ -1,0 +1,10 @@
+{
+  "bookings": [],
+  "contact_messages": [],
+  "reviews": [],
+  "next_ids": {
+    "bookings": 1,
+    "contact_messages": 1,
+    "reviews": 1
+  }
+}
